@@ -10,4 +10,4 @@ https://sentiment-prediction-sreesh.herokuapp.com/
 <br>
 <hr>
 <br>
-Still currently working on improving the accuracy and apply predictions on texts extracted from URLs online.
+Still currently working on improving the accuracy and applying predictions on texts extracted from URLs online.
